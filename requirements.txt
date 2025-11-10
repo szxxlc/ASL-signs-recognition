@@ -1,0 +1,4 @@
+inference-sdk
+python-dotenv
+pillow
+opencv-python
